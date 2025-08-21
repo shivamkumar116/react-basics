@@ -1,10 +1,15 @@
+import Chai from "./Chai"
+import Counter from "./Counter"
 
 
 function App() {
  
 
   return (
-   <h1>Learning Vite react | Shivam kumar</h1>
+    <>
+    <Counter/>
+  
+   </>
   )
 }
 
